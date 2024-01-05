@@ -7,11 +7,11 @@
 
 ## 传送门
 
-- 目录阅读：[进入](https://github.com/LingCoder/OnJava8/blob/master/SUMMARY.md)
+- 目录阅读：[进入](https://github.com/wayrt7/OnJava8/blob/master/SUMMARY.md)
 
-- GitHub Pages 完整阅读：[进入](https://lingcoder.github.io/OnJava8/)
+- GitHub Pages 完整阅读：[进入](https://wayrt7.github.io/OnJava8/)
 
-- Gitee Pages 完整阅读：[进入](https://lingcoder.gitee.io/onjava8/)
+- Gitee Pages 完整阅读：[进入](https://wayrt7.gitee.io/onjava8/)
 
 ## 翻译进度
 
@@ -61,10 +61,10 @@
 
 ## 一起交流
 
-交流群：721698221 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=4cb8bdc26879e544a0e1c2027305afef699029d5c0f314099a239b7c4f309c5f"><img border="0" src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/docs/images/qqgroup.png" alt="OnJava8翻译交流" title="OnJava8翻译交流"></a>( 点击图标即可加入 )<br> 加群时请简单备注下来源或说明
+交流群：721698221 <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=4cb8bdc26879e544a0e1c2027305afef699029d5c0f314099a239b7c4f309c5f"><img border="0" src="https://raw.githubusercontent.com/wayrt7/OnJava8/master/docs/images/qqgroup.png" alt="OnJava8翻译交流" title="OnJava8翻译交流"></a>( 点击图标即可加入 )<br> 加群时请简单备注下来源或说明
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/assets/QQGroupQRCode.png"  alt="QQGroupQRCode"/>
+<img src="https://raw.githubusercontent.com/wayrt7/OnJava8/master/assets/QQGroupQRCode.png"  alt="QQGroupQRCode"/>
  </div>
 
 ## 大事记
@@ -74,7 +74,7 @@
 ## 原书资料
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/cover_small.jpg"  alt="cover_small"/>
+<img src="https://raw.githubusercontent.com/wayrt7/OnJava8/master/cover_small.jpg"  alt="cover_small"/>
  </div>
 
 - 作者: Bruce Eckel
@@ -89,9 +89,9 @@
 
 ## 贡献者
 
-- 主译：[LingCoder](https://github.com/LingCoder)，[sjsdfg](https://github.com/sjsdfg)，[xiangflight](https://github.com/xiangflight)
+- 主译：[wayrt7](https://github.com/wayrt7)，[sjsdfg](https://github.com/sjsdfg)，[xiangflight](https://github.com/xiangflight)
 - 参译：[Langdon-Chen](https://github.com/Langdon-Chen)，[1326670425](https://github.com/1326670425)，[LortSir](https://github.com/LortSir)
-- 校对：[LingCoder](https://github.com/LingCoder)，[jason31520](https://github.com/jason31520)，[xiangflight](https://github.com/xiangflight)，[nickChenyx](https://github.com/nickChenyx)
+- 校对：[wayrt7](https://github.com/wayrt7)，[jason31520](https://github.com/jason31520)，[xiangflight](https://github.com/xiangflight)，[nickChenyx](https://github.com/nickChenyx)
 
 ## 翻译说明
 
@@ -120,4 +120,4 @@
 
 ## 联系方式
 
-- E-mail : <lingcoder@gmail.com>
+- E-mail : <wayrt7@gmail.com>

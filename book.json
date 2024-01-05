@@ -1,6 +1,6 @@
 {
   "title": "《On Java 8》中文版",
-  "author": "LingCoder",
+  "author": "wayrt7",
   "description": "",
   "language": "zh-hans", 
   "gitbook": "3.2.3", 
@@ -24,7 +24,7 @@
   ],
   "pluginsConfig": {
 	"edit-link": {
-                "base": "https://github.com/lingcoder/OnJava8/edit/master",
+                "base": "https://github.com/wayrt7/OnJava8/edit/master",
                 "label": "Edit This Page"
             }
   }

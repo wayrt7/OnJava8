@@ -1,8 +1,8 @@
 ## 如何贡献项目
 
-领取或创建新的 [Issue](https://github.com/lingcoder/OnJava8/issues)，如 [issue 14](https://github.com/lingcoder/OnJava8/issues/14) ，在编辑栏的右侧添加自己为 `Assignee`。
+领取或创建新的 [Issue](https://github.com/wayrt7/OnJava8/issues)，如 [issue 14](https://github.com/wayrt7/OnJava8/issues/14) ，在编辑栏的右侧添加自己为 `Assignee`。
 
-在 [GitHub](https://github.com/lingcoder/OnJava8/fork) 上 `fork` 项目到自己的仓库，你的如 `user_name/OnJava8`，然后 `clone` 到本地，并设置用户信息。
+在 [GitHub](https://github.com/wayrt7/OnJava8/fork) 上 `fork` 项目到自己的仓库，你的如 `user_name/OnJava8`，然后 `clone` 到本地，并设置用户信息。
 
 ```bash
 $ git clone git@github.com:user_name/OnJava8.git
@@ -22,12 +22,12 @@ $ git commit -a -s
 $ git push
 ```
 
-在 [GitHub](https://github.com/lingcoder/OnJava8/pulls) 上提交 `Pull Request`，添加标签，并邀请维护者进行 `Review`。
+在 [GitHub](https://github.com/wayrt7/OnJava8/pulls) 上提交 `Pull Request`，添加标签，并邀请维护者进行 `Review`。
 
 定期使用源项目仓库内容同步更新自己仓库的内容。
 
 ```bash
-$ git remote add upstream https://github.com/lingcoder/OnJava8
+$ git remote add upstream https://github.com/wayrt7/OnJava8
 
 $ git fetch upstream
 
